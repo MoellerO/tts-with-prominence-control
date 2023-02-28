@@ -1,0 +1,5 @@
+pip==23.0.1
+torch
+torchaudio
+sentencepiece
+git+https://github.com/huggingface/transformers
