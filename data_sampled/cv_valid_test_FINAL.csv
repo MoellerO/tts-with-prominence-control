@@ -1,0 +1,6 @@
+,filename,text,up_votes,down_votes,age,gender,accent,duration,len_words,filename_wav
+0,data_sampled//cv-valid-test/sample-000377.mp3,i'm never more aware of a room's acoustics than when i'm trying to enjoy a snack i have no intention of sharing,2,0,,,,,22,/content/gdrive/MyDrive/data_sampled//cv-valid-test/sample-000377.wav
+8,data_sampled//cv-valid-test/sample-001202.mp3,you don't have to be rich skinny popular or even own a cape to perform a random act of kindness,4,0,,,,,20,/content/gdrive/MyDrive/data_sampled//cv-valid-test/sample-001202.wav
+9,data_sampled//cv-valid-test/sample-001276.mp3,it was only when i got this close to it that the strangeness of it was at all evident to me,3,0,fourties,male,us,,21,/content/gdrive/MyDrive/data_sampled//cv-valid-test/sample-001276.wav
+21,data_sampled//cv-valid-test/sample-002279.mp3,we miss you and miss having a friend like you and i am so happy that you two got to catch up,1,0,sixties,female,england,,22,/content/gdrive/MyDrive/data_sampled//cv-valid-test/sample-002279.wav
+34,data_sampled//cv-valid-test/sample-003965.mp3,a part of me is also trying to come to terms with the fact that i won't be able to travel as much anymore,1,0,,,,,24,/content/gdrive/MyDrive/data_sampled//cv-valid-test/sample-003965.wav
