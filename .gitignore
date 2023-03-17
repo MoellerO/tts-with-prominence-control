@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 
 tts
+test.py
+myenv/
+imgs/
